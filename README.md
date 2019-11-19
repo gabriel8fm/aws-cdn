@@ -9,7 +9,7 @@ This project creates a complete static site hosting. To this purpose we use thes
 
 #### Directory Structure
 
-! [Directory Structure] (img/tree.png)
+![Directory Structure](img/tree.png)
 
 #### Modules
 
