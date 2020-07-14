@@ -62,7 +62,11 @@ OMG, I don't like this... then run::
 #### References
 
 [Terraform](https://learn.hashicorp.com/terraform)
+
 [cloudfront](https://aws.amazon.com/cloudfront/)
+
 [S3](https://aws.amazon.com/en/s3/)
+
 [ACM](https://aws.amazon.com/certificate-manager/)
+
 [route53](https://aws.amazon.com/route53/)
